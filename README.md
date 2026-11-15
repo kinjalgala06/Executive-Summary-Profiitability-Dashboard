@@ -1,14 +1,14 @@
 1. Project Title: Executive Summary & Profiitability Dashboard
-2. Short Description :-Developed an interactive Executive Sales & Profitability Dashboard in Microsoft Excel to analyse business performance, revenue trends, and profitability. Includes KPI tracking for Total Revenue, Total Gross Profit, Gross Margin, Units Sold, Orders, and COGS. Features monthly revenue and profit trends, country-wise revenue bar chart, channel-wise revenue pie chart, region-wise comparison, geographical sales map, and dynamic filters for region, product, country, month, and customer.
+2. Short Description : Developed an interactive Executive Sales & Profitability Dashboard in Microsoft Excel to analyse business performance, revenue trends, and profitability. Includes KPI tracking for Total Revenue, Total Gross Profit, Gross Margin, Units Sold, Orders, and COGS. Features monthly revenue and profit trends, country-wise revenue bar chart, channel-wise revenue pie chart, region-wise comparison, geographical sales map, and dynamic filters for region, product, country, month, and customer.
 
-3. Tech Stack
+3. Tech Stack:
 - Microsoft Excel: Dashboard development and data analysis.
 - Pivot Tables: Data summarization and performance analysis.
 - Pivot Charts: Visual representation of sales and profitability trends.
 - Slicers: Interactive filtering by region, product, country, month, and customer.
 - Data Visualization: KPI tracking, charts, and geographical sales mapping.
 
-4. Data Source Dataset: Logistics Operations Dataset.
+4. Data Source Dataset: 
 5. Features & Highlights:
   A. Business Problem:
   B. Project Goals:
@@ -17,4 +17,3 @@
   E. Key Business Insights The dashboard helps answer important business questions:
 
 6. Screenshot Show what the dashbard looks like :-
-<img width="444" height="49" alt="image" src="https://github.com/user-attachments/assets/9b863707-cfc1-4889-ac86-5862be558624" />
