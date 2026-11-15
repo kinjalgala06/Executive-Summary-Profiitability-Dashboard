@@ -8,8 +8,7 @@
 - Slicers: Interactive filtering by region, product, country, month, and customer.
 - Data Visualization: KPI tracking, charts, and geographical sales mapping.
 
-4. Data Source Dataset: 
-5. Features & Highlights:
+4. Features & Highlights:
 
 A. Business Problem:
 Businesses generate sales data across multiple countries, regions, products, customers, and sales channels. Analysing these records manually makes it difficult to track revenue, measure profitability, identify top-performing markets, and understand sales trends. The business needs an interactive dashboard to monitor key performance indicators, compare sales performance, and support data-driven decision-making.
@@ -61,5 +60,5 @@ E. Key Business Insights :The dashboard helps answer important business question
 - How are sales distributed across different countries?
 - Which products and customers contribute most to overall revenue?
 
-7. Screenshot Show what the dashbard looks like :-
+5. Screenshot Show what the dashbard looks like :-
 ![image_alt](https://github.com/kinjalgala06/Executive-Summary-Profiitability-Dashboard/blob/main/Executive%20Summary%20and%20Profiitability%20Dashboard.png)
