@@ -17,3 +17,4 @@
   E. Key Business Insights The dashboard helps answer important business questions:
 
 6. Screenshot Show what the dashbard looks like :-
+![image_alt](https://github.com/kinjalgala06/Executive-Summary-Profiitability-Dashboard/blob/main/Executive%20Summary%20and%20Profiitability%20Dashboard.png)
